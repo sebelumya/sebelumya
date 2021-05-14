@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sebelumya
-- 👀 I’m interested in developer field
+- 👀 I’m interested in programming languages
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me twitter.com/sebelumya
+- 📫 How to reach me https://twitter.com/sebelumya
 
 <!---
 sebelumya/sebelumya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
